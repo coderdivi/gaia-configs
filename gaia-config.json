@@ -16,5 +16,6 @@
   "chat": {
     "prompt_template": "### User:\n{{prompt}}\n\n### Assistant:",
     "stop": ["### User:", "### Assistant:"]
-  }
+  },
+  "chat_ctx_size": 2048
 }
