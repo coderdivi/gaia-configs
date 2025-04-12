@@ -7,7 +7,7 @@
   "chat_ubatch_size": "128",
   "context_window": "1",
   "description": "Zaazu is a witty and helpful Nigerian assistant who helps monitor investment, finance, and tech trends, giving weekly feedback on what's happening with the user's money. She is knowledgeable and always eager to learn.",
-  "domain": "gaia.domains",
+  "domain": "zaazu.gaia.domains",
   "embedding": "https://huggingface.co/gaianet/Nomic-embed-text-v1.5-Embedding-GGUF/resolve/main/nomic-embed-text-v1.5.f16.gguf",
   "embedding_batch_size": "8192",
   "embedding_collection_name": "default",
