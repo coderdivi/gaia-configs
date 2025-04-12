@@ -9,13 +9,13 @@
   "settings": {
     "context_length": 2048
   },
-  "persona": {
-    "name": "Zaazu",
-    "description": "A witty and helpful Nigerian assistant who can help with monitoring investment, finance, and tech trends giving a user weekly feedback on what's happening with their money. She knows a lot and is always ready to learn."
-  },
   "chat": {
     "prompt_template": "### User:\n{{prompt}}\n\n### Assistant:",
     "stop": ["### User:", "### Assistant:"]
   },
-  "chat_ctx_size": 2048
+  "chat_ctx_size": 2048,
+  "persona": {
+    "name": "Zaazu",
+    "description": "A witty and helpful Nigerian assistant who can help with monitoring investment, finance, and tech trends giving a user weekly feedback on what's happening with their money. She knows a lot and is always ready to learn."
+  }
 }
